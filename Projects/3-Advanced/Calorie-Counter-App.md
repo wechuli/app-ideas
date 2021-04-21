@@ -24,7 +24,7 @@ searched. This will be loaded when the app is started.
 a 'Search' button, and a 'Clear' button.
 -   [ ] User can enter search terms into the food description input text box.
 -   [ ] User can click on the 'Search' button to search for the matching food.
--   [ ] User can see and warning message if no search terms were entered.
+-   [ ] User can see a warning message if no search terms were entered.
 -   [ ] User can see a warning message if no matches were found.
 -   [ ] User can see a list of the matching food items, portion sizes, and
 calories in a scrollable results panel that is limited to 25 entries.
@@ -43,7 +43,7 @@ data structure other than an array for faster searching.
 
 ## Useful links and resources
 
-[MyPyramid Food Raw Data](https://catalog.data.gov/dataset/mypyramid-food-raw-data-f9ed6)
+[MyPyramid Food Raw Data](https://catalog.data.gov/dataset/mypyramid-food-raw-data)
 
 ## Example projects
 

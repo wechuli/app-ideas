@@ -51,7 +51,7 @@ required to complete them.
 | [Color Cycle](./Projects/1-Beginner/Color-Cycle-App.md)                           | Cycle a color value through incremental changes            | 1-Beginner |
 | [Countdown Timer](./Projects/1-Beginner/Countdown-Timer-App.md)                   | Event Countdown timer                                      | 1-Beginner |
 | [CSV2JSON App](./Projects/1-Beginner/CSV2JSON-App.md)                             | CSV to JSON converter                                      | 1-Beginner |
-| [Dollars to Cents](./Projects/1-Beginner/Dollars-To-Cents-App.md)                  | Convert dollars to cents                                   | 1-Beginner |
+| [Dollars to Cents](./Projects/1-Beginner/Dollars-To-Cents-App.md)                 | Convert dollars to cents                                   | 1-Beginner |
 | [Dynamic CSS Variables](./Projects/1-Beginner/Dynamic-CSSVar-app.md)              | Dynamically change CSS variable settings                   | 1-Beginner |
 | [First DB App](./Projects/1-Beginner/First-DB-App.md)                             | Your first Database app!                                   | 1-Beginner |
 | [Flip Image](./Projects/1-Beginner/Flip-Image-App.md)                             | Change the orientation of images across two axes           | 1-Beginner |
@@ -69,6 +69,7 @@ required to complete them.
 | [Quiz App](./Projects/1-Beginner/Quiz-App.md)                                     | Test your knowledge by answering questions                 | 1-Beginner |
 | [Recipe App](./Projects/1-Beginner/Recipe-App.md)                                 | Recipe                                                     | 1-Beginner |
 | [Random Meal Generator](./Projects/1-Beginner/Random-Meal-Generator.md)           | Generate random meals                                      | 1-Beginner |
+| [Random Number Generator](./Projects/1-Beginner/Random-Number-Generator.md)       | Generate random number between range.                      | 1-Beginner |
 | [Roman to Decimal Converter](./Projects/1-Beginner/Roman-to-Decimal-Converter.md) | Convert Roman to Decimal numbers                           | 1-Beginner |
 | [Slider Design](./Projects/1-Beginner/Slider-Design.md)                           | Display images using a slider control                      | 1-Beginner |
 | [Stopwatch App](./Projects/1-Beginner/Stopwatch-App.md)                           | Count time spent on activities                             | 1-Beginner |
@@ -76,6 +77,7 @@ required to complete them.
 | [Vigenere Cipher](./Projects/1-Beginner/Vigenere-Cipher.md)                       | Encrypt text using the Vigenere Cypher                     | 1-Beginner |
 | [Wind Chill](./Projects/1-Beginner/Windchill-App.md)                              | Calculate the windchill factor from an actual temperature  | 1-Beginner |
 | [Word Frequency](./Projects/1-Beginner/Word-Frequency-App.md)                     | Calculate word frequency in a block of text                | 1-Beginner |
+| [Weather App](./Projects/1-Beginner/Weather-App.md)                               | Get the temperature, weather condition of a city.          | 1-Beginner |
 
 ### Tier-2: Intermediate Projects
 
@@ -83,9 +85,11 @@ required to complete them.
 | --------------------------------------------------------------------------------- | -------------------------------------------------- | -------------- |
 | [Bit Masks](./Projects/2-Intermediate/Bit-Masks-App.md)                           | Using Bit Masks for Conditions                     | 2-Intermediate |
 | [Book Finder App](./Projects/2-Intermediate/Book-Finder-App.md)                   | Search for books by multiple criteria              | 2-Intermediate |
+| [Calculator CLI](./Projects/2-Intermediate/Calculator-CLI.md)                   | Create a basic calculator cli.             | 2-Intermediate |
 | [Card Memory Game](./Projects/2-Intermediate/Card-Memory-Game.md)                 | Memorize and match hidden images                   | 2-Intermediate |
 | [Charity Finder App](./Projects/2-Intermediate/Charity-Finder-App.md)             | Find a Global Charity to donate to                 | 2-Intermediate |
 | [Chrome Theme Extension](./Projects/2-Intermediate/Chrome-Theme-Extension.md)     | Build your own chrome theme extention.             | 2-Intermediate |
+| [Currency Converter](./Projects/2-Intermediate/Currency-Converter.md)             | Convert one currency to another.                  | 2-Intermediate |
 | [Drawing App](./Projects/2-Intermediate/Drawing-App.md)                           | Create digital artwork on the web                  | 2-Intermediate |
 | [Emoji Translator App](./Projects/2-Intermediate/Emoji-Translator-App.md)         | Translate sentences into Emoji                     | 2-Intermediate |
 | [Flashcards App](./Projects/2-Intermediate/FlashCards-App.md)                     | Review and test your knowledge through Flash Cards | 2-Intermediate |
@@ -98,7 +102,7 @@ required to complete them.
 | [Markdown Table Generator](./Projects/2-Intermediate/Markdown-Table-Generator.md) | Convert a table into Markdown-formatted text       | 2-Intermediate |
 | [Math Editor](./Projects/2-Intermediate/math-editor.md)                           | A math editor for students to use                  | 2-Intermediate |
 | [Meme Generator App](./Projects/2-Intermediate/Meme-Generator-App.md)             | Create custom memes                                | 2-Intermediate |
-| [Name Generation using RNNs](./Projects/2-Intermediate/Name-Generator.md)			    | Generate names using names dataset		  		       | 2-Intermediate |
+| [Name Generation using RNNs](./Projects/2-Intermediate/Name-Generator.md)         | Generate names using names dataset                 | 2-Intermediate |
 | [Password Generator](./Projects/2-Intermediate/Password-Generator.md)             | Generate random passwords                          | 2-Intermediate |
 | [Podcast Directory](./Projects/2-Intermediate/Podcast-Directory-App.md)           | Directory of favorite podcasts                     | 2-Intermediate |
 | [QR Code Badge Generator](./Projects/2-Intermediate/QRCode-Badge-App.md)          | Encode badge info in a QRcode                      | 2-Intermediate |
